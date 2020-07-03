@@ -5,7 +5,7 @@
 }
 body{
     font-family: 'Pragati Narrow', sans-serif;
-    background: rgb(35, 35, 37);
+    background: rgb(25, 32, 59);
     font-size: 63.83%;
 }
 h1{
@@ -13,53 +13,57 @@ h1{
     color: #ffff;
     font-size: 3rem;
 }
-h2{
-    text-align: center;
+.menu{
     color: rgb(162, 170, 206);
     text-decoration: none;
     font-size: 2rem;
-    margin: 0;
     padding: 0rem 4.115rem;
-    background: rgb(51, 55, 94);
+    background: rgb(30, 41, 80);
 }
 .conteiner{
     max-width: 114rem;
     margin: 0 auto;
 }
+/* .menu{
+    display: inline-block;
+} */
 .main-menu{
-    background: rgb(140, 181, 189);
+    background: rgb(89, 137, 156);
     margin: auto;
     width: 90%;
     height: 82vh;
-    box-shadow: 1rem 1rem 3rem rgba(185, 176, 197, 0.5);
+    box-shadow: 1rem 1rem 3rem rgba(12, 12, 12, 0.5);
 }
 
 .menu-bar{
     height: 82vh;
-    width: 12rem;
-    background: rgb(81, 93, 129);
+    width: 15rem;
+    background: rgb(23, 94, 116);
     float: left;
     overflow: hidden;
 }
 .items{
-    text-align: center;
+    text-align: left;
     color: rgb(253, 253, 253);
     text-decoration: none;
-    font-size: 2rem;
+    font-size: 1.5rem;
     font-weight: 500;
     margin: 0;
 }
 .item_1{
-    padding:0  1.18rem;
+    padding:0  2.855rem 0 2.4rem;
 }
 .item_2{
-    padding:0  .9rem;
+    padding:0 2rem 0  2.4rem;
 }
 .item_3{
-    padding:0  3.065rem;
+    padding:0 5.68rem 0 2.4rem;
+}
+.item_4{
+    padding:0 5.86rem 0 2.4rem;
 }
 .items:hover{
-    background: rgb(42, 42, 43);
+    background: rgb(15, 15, 15);
     color: rgb(155, 192, 206);
 }
 .customer-details{
@@ -70,6 +74,7 @@ h2{
 input{
    font-size: 1rem;
    width: 9rem;
+   padding: 0px 5px;
 }
 label{
     display: block;
@@ -89,4 +94,7 @@ td, th{
 }
 .table1, th{
     font-size: 1.5rem;
+}
+.menu-name{
+    margin-left: 6px;
 }

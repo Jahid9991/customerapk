@@ -1,3 +1,26 @@
+<!-- <li><a href="http://127.0.0.1:5500/index.html" class="menu">Menu</a></li> -->
+<!-- <form>
+                   <label for="Customer name"> Customer Name: <span>MD RIFAT HASAN</span></label>
+                   
+                   <label for="Contact" > Contact: <span>01789456123</span></label>
+                   
+                   <label for="Address"> Address: <span>Jamalpur, Sadullapur, Gaibandha</span></label>
+                   
+                   <label for="Due"> Due:</label>
+                   <table>
+                       <tr>
+                           <th>Items</th>
+                           <th>Paid(tk)</th>
+                           <th>Date</th>
+                           <th>Delivered</th>
+                        </tr>
+                            <tr><td><span>Book1</span></td>
+                            <td><span>750</span></td>
+                            <td><span>26-02-2020</span></td>
+                            <td><span>True</span></td>
+                        </tr>
+                    </table>
+                </form> -->
 /* .menu{
     text-align: center;
     color: rgb(162, 170, 206);
@@ -28,3 +51,27 @@
     font-size: 2rem;
     background: rgb(60, 55, 75);
     border: .2rem solid rgb(59, 60, 66); */
+    <!-- <label for="Customer name"> Customer Name:</label>
+                   <input type="text" id="Customer_name">
+                   
+                   <label for="Contact" > Contact:</label>
+                   <input type="text" id="Contact">
+                   
+                   <label for="Address"> Address:</label>
+                   <input type="text" id="Address">
+                   
+                   <label for="Due"> Due:</label> -->
+                    <!-- <form>
+                   <label for="Customer name"> Customer Name:</label>
+                   <input type="text" id="Customer_name">
+                   
+                   <label for="Contact" > Contact:</label>
+                   <input type="text" id="Contact">
+                   
+                   <label for="Address"> Address:</label>
+                   <input type="text" id="Address">
+                   
+                   <label for="Due"> Due:</label>
+                   <input type="text" id="Due">
+                   <input type="submit" value="Submit" id="submit-form">
+                </form> -->
