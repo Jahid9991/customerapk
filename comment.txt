@@ -1,0 +1,30 @@
+/* .menu{
+    text-align: center;
+    color: rgb(162, 170, 206);
+    text-decoration: none;
+    font-size: 2rem;
+    margin: 0;
+    padding: 0rem 4.115rem;
+    background: rgb(51, 55, 94);
+} */
+/* .menu, ul, li{
+    list-style-type: none;
+} */
+/* .menu{
+    text-align: center;
+    color: rgb(162, 170, 206);
+    text-decoration: none;
+    font-size: 2rem;
+    margin: 0;
+    padding: 0rem 4.115rem;
+    background: rgb(89, 88, 100);
+} */
+/* .menu:hover{
+    background: rgb(172, 200, 211);
+    color: rgb(58, 58, 80);
+} */
+/* text-align: center;
+    color: rgb(98, 114, 105);
+    font-size: 2rem;
+    background: rgb(60, 55, 75);
+    border: .2rem solid rgb(59, 60, 66); */
