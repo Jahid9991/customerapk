@@ -1,0 +1,98 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    font-family: 'Pragati Narrow', sans-serif;
+    background: rgb(73, 70, 77);
+    font-size: 63.83%;
+}
+h1{
+    text-align: center;
+    color: #ffff;
+    font-size: 3rem;
+}
+/* h2{
+    text-align: center;
+    color: rgb(98, 114, 105);
+    font-size: 2rem;
+    background: rgb(60, 55, 75);
+    border: .2rem solid rgb(59, 60, 66);
+} */
+.conteiner{
+    max-width: 114rem;
+    margin: 0 auto;
+}
+.main-menu{
+    background: rgb(140, 181, 189);
+    margin: auto;
+    width: 70rem;
+    height: 30rem;
+    box-shadow: 1rem 1rem 3rem rgba(185, 176, 197, 0.5);
+}
+
+.menu-bar{
+    height: 30rem;
+    width: 12rem;
+    background: rgb(119, 119, 131);
+    float: left;
+    overflow: hidden;
+}
+ul, li{
+    list-style-type: none;
+}
+.menu{
+    text-align: center;
+    color: rgb(162, 170, 206);
+    text-decoration: none;
+    font-size: 2rem;
+    margin: 0;
+    padding: 0rem 4.115rem;
+    background: rgb(89, 88, 100);
+}
+.menu:hover{
+    background: rgb(155, 192, 206);
+    color: rgb(58, 58, 80);
+}
+.items{
+    text-align: center;
+    color: rgb(253, 253, 253);
+    text-decoration: none;
+    font-size: 2rem;
+    font-weight: 500;
+    margin: 0;
+}
+.item_1{
+    padding:0  1.18rem;
+}
+.item_2{
+    padding:0  .9rem;
+}
+.item_3{
+    padding:0  3.065rem;
+}
+.items:hover{
+    background: rgb(42, 42, 43);
+    color: rgb(155, 192, 206);
+}
+.customer-details{
+    font-size: 2rem;
+    margin: 2.6rem 20rem ;
+    position: absolute;
+}
+input{
+    display: block;
+    font-size: 1.5rem;
+    padding: .5rem;
+    border: 0;
+}
+label{
+    display: block;
+}
+#submit-form{
+    margin-left: 30rem;
+    color:#fff;
+    margin-top: -2.5rem;
+    background: rgb(67, 95, 128);
+}
